@@ -1,0 +1,15 @@
+---
+# Extra PHP libraries
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip' ]
+
+#MySQL variables
+mysql_root_password: "1234"
+mysql_db: "wordpress"
+mysql_user: "ansiuser"
+mysql_password: "1234"
+
+#HTTP variables
+http_host: "Prj2wordpress"
+http_conf: "prj2.conf"
+http_port: "80"
+
